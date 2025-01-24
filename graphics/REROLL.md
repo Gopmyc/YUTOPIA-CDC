@@ -2,9 +2,9 @@
 
 **Cahier des charges pour la réalisation d'éléments graphiques**
 
-- **Prestataire** : [Shavkat]  
-- **Date** : [24/01/24]  
-- **Version** : 1.0  
+- **Prestataire** : [CONFIDENTIELE]  
+- **Date** :        [24/01/24]  
+- **Version** :     1.0  
 
 ---
 
@@ -27,20 +27,20 @@
 ---
 
 ## 1. Contexte et Objectif de la Prestation  
-Le présent cahier des charges a pour but de détailler les paramètres de réalisation des éléments graphiques nécessaires à la réalisation d’un menu de compétences pour le serveur Garry’s Mod de la communauté Yutopia.  
+Le présent cahier des charges a pour but de détailler les paramètres de réalisation des éléments graphiques nécessaires à la réalisation d’un menu de compétences pour le serveur de jeu Garry’s Mod de la communauté Yutopia.  
 
 ---
 
 ## 2. Éléments à réaliser  
 Le prestataire devra réaliser les éléments suivants pour le menu des compétences du projet :  
-- **Arrière-plan ‘reroll’** : L'arrière-plan du menu ‘reroll’ doit être d’une gamme de couleurs unies en raccord avec l'arrière-plan du menu et les différents éléments.  
-- **Bouton de relance** : Le bouton de relance doit être en accord avec l'arrière-plan du menu ainsi que les éléments le composant.  
+- **Arrière-plan ‘reroll’** :       L'arrière-plan du menu doit être d’une gamme de couleurs en raccord avec les différents éléments du menu.  
+- **Bouton de relance** :           Le bouton de relance doit être en accord avec l'arrière-plan du menu ainsi que les éléments le composant.  
 - **Bouton de relance ‘hovered’** : Le bouton de relance ‘hovered’ doit correspondre aux mêmes critères que le bouton de relance lambda. Cependant, la gamme de couleurs doit être plus flashy afin de signifier à l’utilisateur que le curseur de la souris est au-dessus du bouton.  
 
 **Dimensions des éléments** :  
-- Arrière-plan du menu : 1050x720px  
+- Arrière-plan du menu :        1050x720px  
 - Bouton de relance ‘hovered’ : 406x50px  
-- Boutons de relance : 406x50px  
+- Boutons de relance :          406x50px  
 
 ---
 
@@ -49,12 +49,12 @@ Les éléments graphiques devront être inspirés de la direction artistique du 
 
 ### Caractéristiques spécifiques du style  
 - **Palette de couleurs** :  
-  - Un gris neutre et sombre : `HEX: #373636 | RGB: 55, 54, 54`  
-  - Un gris légèrement terreux : `HEX: #4B4949 | RGB: 75, 73, 73`  
-  - Un gris presque noir : `HEX: #141414 | RGB: 20, 20, 20`  
-  - Gris uniforme proche du noir : `HEX: #282828 | RGB: 40, 40, 40`  
-  - Gris foncé uniforme : `HEX: #1f1f1f | RGB: 31, 31, 31`  
-  - Rouge foncé terreux : `HEX: #943943 | RGB: 148, 57, 67`  
+  - Un gris neutre et sombre :      `HEX: #373636 | RGB: 55, 54, 54`  
+  - Un gris légèrement terreux :    `HEX: #4B4949 | RGB: 75, 73, 73`  
+  - Un gris presque noir :          `HEX: #141414 | RGB: 20, 20, 20`  
+  - Gris uniforme proche du noir :  `HEX: #282828 | RGB: 40, 40, 40`  
+  - Gris foncé uniforme :           `HEX: #1f1f1f | RGB: 31, 31, 31`  
+  - Rouge foncé terreux :           `HEX: #943943 | RGB: 148, 57, 67`  
 
 - **Typographie** : [NA]  
 - **Formes et contours** : Arrondis  
@@ -112,21 +112,21 @@ Le prestataire s’engage à ne pas travailler sur des projets similaires ou con
 ---
 
 ## 12. Applicabilité des Clauses  
-| Clause                     | Applicable (Oui/Non) | Commentaire                   |  
-|----------------------------|----------------------|--------------------------------|  
-| Confidentialité            | Oui                 |                                |  
-| Propriété Intellectuelle   | Oui                 |                                |  
-| Non-concurrence            | Non                 |                                |  
-| Modifications post-livraison | Oui               |                                |  
+| Clause                        | Applicable (Oui/Non)  | Commentaire           |  
+|-------------------------------|-----------------------|-----------------------|  
+| Confidentialité               | Oui                   |    [NA]               |  
+| Propriété Intellectuelle      | Oui                   |    [NA]               |  
+| Non-concurrence               | Non                   |    [NA]               |  
+| Modifications post-livraison  | Oui                   |    [NA]               |  
 
 ---
 
 ## 13. Annexes  
 ### Annexe 1 : Addendum aux CDC précédents  
 Cet addendum complète les cahiers des charges précédemment fournis et ajoute les clauses suivantes :  
-- **Confidentialité** : Voir section [8](#8-confidentialité).  
-- **Propriété intellectuelle** : Voir section [9](#9-propriété-intellectuelle).  
-- **Non-concurrence** : Voir section [10](#10-non-concurrence).  
+- **Confidentialité** :             Voir section [8](#8-confidentialité).  
+- **Propriété intellectuelle** :    Voir section [9](#9-propriété-intellectuelle).  
+- **Non-concurrence** :             Voir section [10](#10-non-concurrence).  
 
 ### Annexe 2 : Exemple de livrables attendus (optionnel)  
 [NA]  
