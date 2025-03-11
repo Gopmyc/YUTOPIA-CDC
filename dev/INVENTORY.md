@@ -13,15 +13,17 @@
 2. [Éléments à réaliser](#2-éléments-à-réaliser)  
 3. [Normes et Fonctionnalités](#3-normes-et-fonctionnalités)  
 4. [Effets visuels et Responsiveness](#4-effets-visuels-et-responsiveness)  
-5. [Livrables attendus](#5-livrables-attendus)  
-6. [Délais de réalisation](#6-délais-de-réalisation)  
-7. [Budget et Conditions](#7-budget-et-conditions)  
-8. [Critères de Validation](#8-critères-de-validation)  
-9. [Confidentialité](#9-confidentialité)  
-10. [Propriété Intellectuelle](#10-propriété-intellectuelle)  
-11. [Non-concurrence](#11-non-concurrence)  
-12. [Modifications post-livraison](#12-modifications-post-livraison)  
-13. [Contact](#13-contact)  
+5. [Maquette Visuelle](#5-maquette-visuelle)  
+6. [Livrables attendus](#6-livrables-attendus)  
+7. [Délais de réalisation](#7-délais-de-réalisation)  
+8. [Budget et Conditions](#8-budget-et-conditions)  
+9. [Critères de Validation](#9-critères-de-validation)  
+10. [Confidentialité](#10-confidentialité)  
+11. [Propriété Intellectuelle](#11-propriété-intellectuelle)  
+12. [Non-concurrence](#12-non-concurrence)  
+13. [Modifications post-livraison](#13-modifications-post-livraison)  
+14. [Applicabilité des Clauses](#14-applicabilité-des-clauses)  
+15. [Contact](#15-contact)  
 
 ---
 
@@ -69,24 +71,31 @@ Le prestataire devra réaliser les éléments suivants :
 
 ---
 
-## 5. Livrables attendus  
+## 5. Maquette Visuelle  
+Ci-dessous, la maquette visuelle représentant le rendu attendu du menu d'inventaire :  
+
+![Maquette Visuelle](assets/final.png) 
+
+---
+
+## 6. Livrables attendus  
 Le prestataire devra livrer :  
 - **Le menu intégré au module existant** : Le code sera directement ajouté au projet source via l'accès fourni.  
 - **Respect des conventions** : Le code doit respecter la structure et les normes du projet pour faciliter la maintenance.  
 
 ---
 
-## 6. Délais de réalisation  
+## 7. Délais de réalisation  
 **Date limite de livraison** : [À définir avec le prestataire]  
 
 ---
 
-## 7. Budget et Conditions  
+## 8. Budget et Conditions  
 **Modalités de paiement** : Paiement après validation finale par l'équipe technique de Yutopia.  
 
 ---
 
-## 8. Critères de Validation  
+## 9. Critères de Validation  
 Le menu sera validé en fonction des critères suivants :  
 - Fonctionnalités entièrement opérationnelles (drag-and-drop, menu contextuel, boutons interactifs).  
 - Respect des normes d'intégration dans le projet.  
@@ -94,28 +103,38 @@ Le menu sera validé en fonction des critères suivants :
 
 ---
 
-## 9. Confidentialité  
+## 10. Confidentialité  
 Le prestataire s'engage à respecter la confidentialité totale concernant le projet, incluant :  
 - Ne divulguer aucune information relative au projet.  
 - Ne pas utiliser les travaux réalisés dans son portfolio ou ailleurs sans autorisation écrite.  
 
 ---
 
-## 10. Propriété Intellectuelle  
+## 11. Propriété Intellectuelle  
 Le prestataire cède tous les droits d'exploitation des créations réalisées au commanditaire. Ces droits incluent l'utilisation, la reproduction, la modification et la distribution des créations.  
 
 ---
 
-## 11. Non-concurrence  
-Le prestataire s'engage à ne pas travailler sur des projets concurrents pendant **6 mois** après la fin de la prestation, sauf accord écrit.  
+## 12. Non-concurrence  
+Cette clause n'est pas applicable à cette prestation.  
 
 ---
 
-## 12. Modifications post-livraison  
+## 13. Modifications post-livraison  
 - **Incluses** : Une série de corrections mineures si nécessaire.  
 - **Supplémentaires** : Toute modification majeure sera facturée séparément après accord.  
 
 ---
 
-## 13. Contact  
-Pour toute question, contactez l'équipe Yutopia via Discord.  
+## 14. Applicabilité des Clauses  
+| Clause                        | Applicable (Oui/Non)  | Commentaire           |  
+|-------------------------------|-----------------------|-----------------------|  
+| Confidentialité               | Oui                   | Le prestataire doit garantir la non-divulgation. |  
+| Propriété Intellectuelle      | Oui                   | Droits cédés au commanditaire. |  
+| Non-concurrence               | Non                   | Non applicable à cette prestation. |  
+| Modifications post-livraison  | Oui                   | Modifications mineures incluses. |  
+
+---
+
+## 15. Contact  
+Pour toute question, contactez l'équipe Yutopia via Discord.   
