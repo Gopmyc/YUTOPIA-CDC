@@ -1,14 +1,14 @@
-# Cahier des charges - [Yutopia]
+# Cahier des charges - [Yutopia]  
 
 **Cahier des charges pour la réalisation d'éléments graphiques**  
 
 - **Prestataire** : [CONFIDENTIEL]  
 - **Date** : [11/03/2025]  
-- **Version** : 1.1  
+- **Version** : 1.0  
 
 ---
 
-## Sommaire
+## Sommaire  
 1. [Contexte et Objectif de la Prestation](#1-contexte-et-objectif-de-la-prestation)  
 2. [Éléments à réaliser](#2-éléments-à-réaliser)  
 3. [Style et Direction Artistique](#3-style-et-direction-artistique)  
@@ -26,28 +26,34 @@
 ---
 
 ## 1. Contexte et Objectif de la Prestation  
-Le présent cahier des charges a pour but de détailler les paramètres de réalisation d'un **sélecteur radial d'attaques** pour le serveur de jeu **Garry’s Mod** de la communauté **Yutopia**.  
-Ce menu doit permettre aux joueurs de sélectionner leurs attaques en fonction du déplacement de la souris, avec une interface fluide et intuitive inspirée des sélecteurs d’armes des jeux **GTA V** et **Red Dead Redemption 2**.  
+Le présent cahier des charges a pour but de détailler les paramètres de réalisation d’un **HUD de jeu** destiné au serveur **Garry’s Mod** de la communauté **Yutopia**.  
+
+Cet **HUD** s'inspire de l'interface présente dans l’anime **Sword Art Online (Saison 1)**. Il doit être épuré, futuriste et lisible tout en restant fidèle à l’identité visuelle du serveur.  
 
 ---
 
 ## 2. Éléments à réaliser  
-Le prestataire devra réaliser les éléments suivants pour le menu radial de sélection d'attaques :
-- **Slots de sélection** : Des emplacements circulaires indiquant les attaques disponibles.  
-- **Indicateur de sélection active** : Un contour sur le slot actuellement sélectionné.  
-- **Icônes des attaques** : Des pictogrammes différenciés selon l’attaque équipée.  
-- **Lettres de rang** : Indication de la **puissance de l’attaque**, allant de "E" (attaque la plus faible) à "S" (attaque la plus forte), en passant par "D", "C", "B" et "A".  
+Le prestataire devra réaliser les éléments suivants :  
 
-### Dimensions des éléments   
-- **Slots de sélection** : 120x120px  
-- **Contour de sélection active** : 140x140px  
-- **Icônes d’attaques** : 100x100px  
-- **Taille des rangs affichés** : 50x50px  
+- **Nom du joueur** : Affiché en haut de l'interface, dans un cadre arrondi.  
+- **Barre de vie (HP)** : Barre principale indiquant les points de vie du joueur.  
+- **Barre de mana / énergie** : Affichée sous la barre de vie, en bleu.  
+- **Barre de faim** : Positionnée sous la barre de mana.  
+- **Indicateur d’état** : Petit rectangle à droite affichant une icône ou un état (permanant ou temporaire) (ex : statut d’armure, stamina, boost, etc.).  
+- **Quantité de vie** : Zone sous les barres, affichant le texte indicant le nombre de points de vie restant par rapport a la quantité de points de vie maximal.  
+
+### Dimensions des éléments  
+- **Nom du joueur** : 120x30px  
+- **Barre de vie** : 300x25px  
+- **Barre de mana** : 250x15px  
+- **Barre d’expérience** : 250x10px  
+- **Indicateur d’état** : 40x40px  
+- **Bouton d’activation** : 80x25px  
 
 ---
 
 ## 3. Style et Direction Artistique  
-Le style graphique doit être **moderne, minimaliste et sombre**, avec des éléments lisibles et une mise en avant des attaques sélectionnées.  
+Le style graphique doit être **futuriste, épuré et lisible**, s’inspirant de l’interface de **SAO (S1)**.  
 
 ### Caractéristiques spécifiques du style  
 - **Palette de couleurs** :  
@@ -60,7 +66,7 @@ Le style graphique doit être **moderne, minimaliste et sombre**, avec des élé
 
 - **Typographie** : [NA] 
 
-- **Formes et contours** : Design **arrondi et épuré** 
+- **Formes et contours** : Design **arrondi et épuré**
 
 ---
 
@@ -72,7 +78,7 @@ Le prestataire devra fournir les fichiers suivants à la fin de la prestation :
 ---
 
 ## 5. Délais de réalisation  
-**Date limite de livraison** : À définir en accord avec le commanditaire.  
+**Date limite de livraison** : [N/A].  
 
 ---
 
@@ -115,10 +121,11 @@ Le prestataire **cède tous les droits d'exploitation** des éléments graphique
 ---
 
 ## 12. Annexes  
-### Annexe 1 : Exemple d’éléments graphiques  
-![Maquette Visuelle](assets/selector2.png)    
+### Annexe 1 : Maquette du HUD  
+![Maquette Visuelle](assets/hud.png)
+
 ⚠️ **Remarque importante** : Les couleurs utilisées dans la maquette sont indicatives et ne reflètent pas les couleurs finales souhaitées. Le rendu final devra respecter la palette de couleurs spécifiée dans la section "Style et Direction Artistique".
 ---
 
 ## 13. Contact  
-Pour toute question, contacter le commanditaire via **Discord**.  
+Pour toute question, contacter le commanditaire via **Discord**.

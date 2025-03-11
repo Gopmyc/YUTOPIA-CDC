@@ -31,11 +31,20 @@ Le présent cahier des charges a pour but de détailler les paramètres de réal
 
 ---
 
-## 2. Éléments à réaliser  
-Le prestataire devra réaliser les éléments suivants pour le menu des compétences du projet :  
-- **Arrière-plan ‘reroll’** :       L'arrière-plan du menu doit être d’une gamme de couleurs en raccord avec les différents éléments du menu.  
-- **Bouton de relance** :           Le bouton de relance doit être en accord avec l'arrière-plan du menu ainsi que les éléments le composant.  
-- **Bouton de relance ‘hovered’** : Le bouton de relance ‘hovered’ doit correspondre aux mêmes critères que le bouton de relance lambda. Cependant, la gamme de couleurs doit être plus flashy afin de signifier à l’utilisateur que le curseur de la souris est au-dessus du bouton.  
+## **2. Éléments à réaliser**  
+Le prestataire devra réaliser les éléments suivants :  
+
+### **2.1. Interface du menu de reroll**  
+- **Arrière-plan du menu** : Doit s’intégrer visuellement avec l’interface du jeu.  
+- **Conteneur d’affichage** : Zone où les éléments défilent avant sélection aléatoire.  
+- **Indicateurs de sélection** : Délimitation visuelle de l’élément sélectionné après le reroll.  
+
+### **2.2. Boutons et interactions**  
+- **Bouton "Reroll Token"** : Permet de déclencher le processus de reroll si le joueur possède un token.  
+- **Bouton "Press to Reroll"** : Indique l’action principale du menu.  
+- **État normal / survol / inactif** : Chaque bouton doit avoir une version normale, une version survolée et une version désactivée si le joueur n’a pas de token. 
+
+---
 
 **Dimensions des éléments** :  
 - Arrière-plan du menu :        1050x720px  
@@ -56,8 +65,9 @@ Les éléments graphiques devront être inspirés de la direction artistique du 
   - Gris foncé uniforme :           `HEX: #1f1f1f | RGB: 31, 31, 31`  
   - Rouge foncé terreux :           `HEX: #943943 | RGB: 148, 57, 67`  
 
-- **Typographie** : [NA]  
-- **Formes et contours** : Arrondis  
+- **Typographie** : [NA]
+
+- **Formes et contours** : Design **arrondi et épuré** 
 
 ---
 
@@ -129,9 +139,10 @@ Cet addendum complète les cahiers des charges précédemment fournis et ajoute 
 - **Non-concurrence** :             Voir section [10](#10-non-concurrence).  
 
 ### Annexe 2 : Exemple de livrables attendus (optionnel)  
-[NA]  
+![Maquette Visuelle](assets/reroll.png)
 
+⚠️ **Remarque importante** : Les couleurs utilisées dans la maquette sont indicatives et ne reflètent pas les couleurs finales souhaitées. Le rendu final devra respecter la palette de couleurs spécifiée dans la section "Style et Direction Artistique".
 ---
 
 ## 14. Contact  
-Pour toute question relative à cette prestation, le prestataire pourra prendre contact via Discord.   
+Pour toute question relative à cette prestation, le prestataire pourra prendre contact via Discord.

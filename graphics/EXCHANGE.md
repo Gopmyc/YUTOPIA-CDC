@@ -1,14 +1,14 @@
-# Cahier des charges - [Yutopia]
+# Cahier des charges - [Yutopia]  
 
 **Cahier des charges pour la réalisation d'éléments graphiques**  
 
 - **Prestataire** : [CONFIDENTIEL]  
 - **Date** : [11/03/2025]  
-- **Version** : 1.1  
+- **Version** : 1.0  
 
 ---
 
-## Sommaire
+## Sommaire  
 1. [Contexte et Objectif de la Prestation](#1-contexte-et-objectif-de-la-prestation)  
 2. [Éléments à réaliser](#2-éléments-à-réaliser)  
 3. [Style et Direction Artistique](#3-style-et-direction-artistique)  
@@ -26,28 +26,34 @@
 ---
 
 ## 1. Contexte et Objectif de la Prestation  
-Le présent cahier des charges a pour but de détailler les paramètres de réalisation d'un **sélecteur radial d'attaques** pour le serveur de jeu **Garry’s Mod** de la communauté **Yutopia**.  
-Ce menu doit permettre aux joueurs de sélectionner leurs attaques en fonction du déplacement de la souris, avec une interface fluide et intuitive inspirée des sélecteurs d’armes des jeux **GTA V** et **Red Dead Redemption 2**.  
+Le présent cahier des charges a pour but de détailler les paramètres de réalisation d’un **menu d’échange** pour le serveur de jeu **Garry’s Mod** de la communauté **Yutopia**.  
+
+Ce menu permettra aux joueurs d’échanger des objets entre eux via une interface inspirée du **menu d’échange de Dofus Unity**, avec une présentation sobre et intuitive. Il devra afficher clairement les items mis en échange par chaque joueur, ainsi que les boutons de validation.  
 
 ---
 
 ## 2. Éléments à réaliser  
-Le prestataire devra réaliser les éléments suivants pour le menu radial de sélection d'attaques :
-- **Slots de sélection** : Des emplacements circulaires indiquant les attaques disponibles.  
-- **Indicateur de sélection active** : Un contour sur le slot actuellement sélectionné.  
-- **Icônes des attaques** : Des pictogrammes différenciés selon l’attaque équipée.  
-- **Lettres de rang** : Indication de la **puissance de l’attaque**, allant de "E" (attaque la plus faible) à "S" (attaque la plus forte), en passant par "D", "C", "B" et "A".  
+Le prestataire devra réaliser les éléments suivants :  
 
-### Dimensions des éléments   
-- **Slots de sélection** : 120x120px  
-- **Contour de sélection active** : 140x140px  
-- **Icônes d’attaques** : 100x100px  
-- **Taille des rangs affichés** : 50x50px  
+- **Fenêtre d’échange** : Interface principale affichant les objets échangés par chaque joueur.  
+- **Portrait du joueur** : Zone en haut à gauche affichant une image/avatar du joueur, il faut que le fond soit une image par default si jamais l'avatar n'est pas affiché.  
+- **Nom du joueur** : Affiché en haut de chaque colonne de l’échange.  
+- **Slots d’échange** : Cases permettant d’afficher les objets échangés par chaque joueur.  
+- **Bouton de validation** : Permet de finaliser l’échange.   
+- **Inventaire du joueur** : Fenêtre latérale affichant les objets possédés, permettant de les ajouter à l’échange.  
+- **Indicateur de poids** : Barre affichant la capacité d’inventaire restante après l’échange.  
+
+### Dimensions des éléments  
+- **Fenêtre principale** : 800x400px  
+- **Portrait du joueur** : 80x80px  
+- **Slots d’échange** : 60x60px  
+- **Bouton de validation** : 120x40px  
+- **Inventaire** : 300x400px  
 
 ---
 
 ## 3. Style et Direction Artistique  
-Le style graphique doit être **moderne, minimaliste et sombre**, avec des éléments lisibles et une mise en avant des attaques sélectionnées.  
+Le style graphique doit être **moderne, épuré et fonctionnel**, tout en rappelant l’esthétique du menu d’échange de **Dofus Unity**.  
 
 ### Caractéristiques spécifiques du style  
 - **Palette de couleurs** :  
@@ -60,7 +66,7 @@ Le style graphique doit être **moderne, minimaliste et sombre**, avec des élé
 
 - **Typographie** : [NA] 
 
-- **Formes et contours** : Design **arrondi et épuré** 
+- **Formes et contours** : Design **arrondi et épuré**
 
 ---
 
@@ -72,7 +78,7 @@ Le prestataire devra fournir les fichiers suivants à la fin de la prestation :
 ---
 
 ## 5. Délais de réalisation  
-**Date limite de livraison** : À définir en accord avec le commanditaire.  
+**Date limite de livraison** : [N/A].  
 
 ---
 
@@ -115,8 +121,8 @@ Le prestataire **cède tous les droits d'exploitation** des éléments graphique
 ---
 
 ## 12. Annexes  
-### Annexe 1 : Exemple d’éléments graphiques  
-![Maquette Visuelle](assets/selector2.png)    
+### Annexe 1 : Maquette du menu d’échange  
+![Maquette Visuelle](assets/exchange.png)  
 ⚠️ **Remarque importante** : Les couleurs utilisées dans la maquette sont indicatives et ne reflètent pas les couleurs finales souhaitées. Le rendu final devra respecter la palette de couleurs spécifiée dans la section "Style et Direction Artistique".
 ---
 
