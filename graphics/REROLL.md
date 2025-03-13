@@ -47,7 +47,7 @@ Le prestataire devra réaliser les éléments suivants :
 ---
 
 **Dimensions des éléments** :  
-- Arrière-plan du menu :        1050x720px  
+- Arrière-plan du menu :        1050x500px  
 - Bouton de relance ‘hovered’ : 406x50px  
 - Boutons de relance :          406x50px  
 
