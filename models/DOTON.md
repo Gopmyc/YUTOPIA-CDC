@@ -282,8 +282,7 @@ Le prestataire **cède tous les droits d’exploitation** des éléments d'anima
 
 ## 12. Annexes  
 ### Annexe 1 : Références visuelles  
-![Référence](assets/motte_pierre.png)    
-⚠️ **Remarque** : L’image est une référence, le rendu final devra correspondre aux indications de la section "Style et Direction Artistique".  
+N/A 
 
 ---  
 
