@@ -55,7 +55,7 @@ D'accord ! Voici la section **2. Éléments à réaliser** complétée avec les 
 | **LOD**           	| N/A |  
 | **Poids max**     	| N/A |  
 | **Remarques**     	| - |
-| **Model**     	| - |
+| **Model**     	| models/wall_mud.mdl |
 
 ---
 
@@ -99,7 +99,7 @@ D'accord ! Voici la section **2. Éléments à réaliser** complétée avec les 
 | **LOD**           	| N/A |  
 | **Poids max**     	| N/A |  
 | **Remarques**     	| - |
-| **Model**     	| - |
+| **Model**     	| models/projection cailloux/mm_projection_0/mm_projection_0.mdl |
 
 ---
 
@@ -121,7 +121,7 @@ D'accord ! Voici la section **2. Éléments à réaliser** complétée avec les 
 | **LOD**           	| N/A |  
 | **Poids max**     	| N/A |  
 | **Remarques**     	| L’animation met trop de temps avant de commencer |
-| **Model**     	| - |
+| **Model**     	| models/mm_demi_dome_terre/mm_demi_dome_terre.mdl |
 
 ---
 
@@ -143,7 +143,7 @@ D'accord ! Voici la section **2. Éléments à réaliser** complétée avec les 
 | **LOD**           	| N/A |  
 | **Poids max**     	| N/A |  
 | **Remarques**     	| Modèle statique |
-| **Model**     	| - |
+| **Model**     	| voir image |
 
 ---
 
