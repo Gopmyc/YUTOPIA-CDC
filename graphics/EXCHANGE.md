@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Cahier des charges - [Yutopia]  
 
 **Cahier des charges pour la réalisation d'éléments graphiques**  
@@ -259,5 +258,4 @@ Le prestataire **cède tous les droits d'exploitation** des éléments graphique
 ---
 
 ## 13. Contact  
-Pour toute question, contacter le commanditaire via **Discord**.  
->>>>>>> a57eb860442437bdcdecd8be8d1d79fcf65f3e1c
+Pour toute question, contacter le commanditaire via **Discord**.

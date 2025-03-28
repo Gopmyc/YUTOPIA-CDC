@@ -54,7 +54,8 @@ D'accord ! Voici la section **2. Éléments à réaliser** complétée avec les 
 | **Polycount max** 	| N/A |  
 | **LOD**           	| N/A |  
 | **Poids max**     	| N/A |  
-| **Remarques**     	| - |  
+| **Remarques**     	| - |
+| **Model**     	| - |
 
 ---
 
@@ -75,7 +76,8 @@ D'accord ! Voici la section **2. Éléments à réaliser** complétée avec les 
 | **Polycount max** 	| N/A |  
 | **LOD**           	| N/A |  
 | **Poids max**     	| N/A |  
-| **Remarques**     	| Modèle statique |  
+| **Remarques**     	| Modèle statique |
+| **Model**     	| - |
 
 ---
 
@@ -96,7 +98,8 @@ D'accord ! Voici la section **2. Éléments à réaliser** complétée avec les 
 | **Polycount max** 	| N/A |  
 | **LOD**           	| N/A |  
 | **Poids max**     	| N/A |  
-| **Remarques**     	| - |  
+| **Remarques**     	| - |
+| **Model**     	| - |
 
 ---
 
@@ -117,7 +120,8 @@ D'accord ! Voici la section **2. Éléments à réaliser** complétée avec les 
 | **Polycount max** 	| N/A |  
 | **LOD**           	| N/A |  
 | **Poids max**     	| N/A |  
-| **Remarques**     	| L’animation met trop de temps avant de commencer |  
+| **Remarques**     	| L’animation met trop de temps avant de commencer |
+| **Model**     	| - |
 
 ---
 
@@ -138,7 +142,8 @@ D'accord ! Voici la section **2. Éléments à réaliser** complétée avec les 
 | **Polycount max** 	| N/A |  
 | **LOD**           	| N/A |  
 | **Poids max**     	| N/A |  
-| **Remarques**     	| Modèle statique |  
+| **Remarques**     	| Modèle statique |
+| **Model**     	| - |
 
 ---
 
@@ -159,7 +164,8 @@ D'accord ! Voici la section **2. Éléments à réaliser** complétée avec les 
 | **Polycount max** 	| N/A |  
 | **LOD**           	| N/A |  
 | **Poids max**     	| N/A |  
-| **Remarques**     	| - |  
+| **Remarques**     	| - |
+| **Model**     	| - |
 
 ---
 
@@ -180,7 +186,8 @@ D'accord ! Voici la section **2. Éléments à réaliser** complétée avec les 
 | **Polycount max** 	| N/A |  
 | **LOD**           	| N/A |  
 | **Poids max**     	| N/A |  
-| **Remarques**     	| Modèle statique |  
+| **Remarques**     	| Modèle statique |
+| **Model**     	| - |
 
 ---
 
@@ -201,7 +208,8 @@ D'accord ! Voici la section **2. Éléments à réaliser** complétée avec les 
 | **Polycount max** 	| N/A |  
 | **LOD**           	| N/A |  
 | **Poids max**     	| N/A |  
-| **Remarques**     	| - |  
+| **Remarques**     	| - |
+| **Model**     	| - |
 
 ---  
 
@@ -282,8 +290,7 @@ Le prestataire **cède tous les droits d’exploitation** des éléments d'anima
 
 ## 12. Annexes  
 ### Annexe 1 : Références visuelles  
-![Référence](assets/motte_pierre.png)    
-⚠️ **Remarque** : L’image est une référence, le rendu final devra correspondre aux indications de la section "Style et Direction Artistique".  
+N/A 
 
 ---  
 
