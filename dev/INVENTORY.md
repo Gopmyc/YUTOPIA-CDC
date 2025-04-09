@@ -137,4 +137,4 @@ Cette clause n'est pas applicable à cette prestation.
 ---
 
 ## 15. Contact  
-Pour toute question, contactez l'équipe Yutopia via Discord.   
+Pour toute question, contactez l'équipe Yutopia via Discord.
