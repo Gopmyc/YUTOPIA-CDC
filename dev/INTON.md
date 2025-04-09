@@ -8,6 +8,16 @@
 5. [SWEPS - Bouclier d’ombres](#sweps-bouclier-dombres)
 6. [SWEPS - Sphère d’ombres](#sweps-sphère-dombres)
 7. [SWEPS - Immobilisation de masse](#sweps-immobilisation-de-masse)
+8. [Livrables attendus](#6-livrables-attendus)  
+9. [Délais de réalisation](#7-délais-de-réalisation)  
+10. [Budget et Conditions](#8-budget-et-conditions)  
+11. [Critères de Validation](#9-critères-de-validation)  
+12. [Confidentialité](#10-confidentialité)  
+13. [Propriété Intellectuelle](#11-propriété-intellectuelle)  
+14. [Non-concurrence](#12-non-concurrence)  
+15. [Modifications post-livraison](#13-modifications-post-livraison)  
+16. [Applicabilité des Clauses](#14-applicabilité-des-clauses)  
+17. [Contact](#15-contact) 
 
 ---
 
@@ -347,3 +357,64 @@
   | **Condition spéciale**          | `être immobile` |
 
 ---
+
+## 8. Livrables attendus  
+Le prestataire devra livrer :
+- **Les scripts et entitées intégré au projet** : Le code sera directement ajouté au projet source via l'accès fourni.  
+- **Respect des conventions** : Le code doit respecter la structure et les normes du projet pour faciliter la maintenance.  
+
+---
+
+## 9. Délais de réalisation  
+**Date limite de livraison** : [N/A] 
+
+---
+
+## 10. Budget et Conditions  
+**Modalités de paiement** : Paiement après validation finale par l'équipe technique de Yutopia.  
+
+---
+
+## 11. Critères de Validation  
+La demande sera validé en fonction des critères suivants :  
+- Fonctionnalités entièrement opérationnelles.  
+- Respect des normes d'intégration dans le projet.  
+- Effets visuels et animations conformes aux spécifications.  
+
+---
+
+## 12. Confidentialité  
+Le prestataire s'engage à respecter la confidentialité totale concernant le projet, incluant :  
+- Ne divulguer aucune information relative au projet.  
+- Ne pas utiliser les travaux réalisés dans son portfolio ou ailleurs sans autorisation écrite.  
+
+---
+
+## 13. Propriété Intellectuelle  
+Le prestataire cède tous les droits d'exploitation des créations réalisées au commanditaire. Ces droits incluent l'utilisation, la reproduction, la modification et la distribution des créations.  
+
+---
+
+## 14. Non-concurrence  
+Cette clause n'est pas applicable à cette prestation.  
+
+---
+
+## 15. Modifications post-livraison  
+- **Incluses** : Une série de corrections mineures si nécessaire.  
+- **Supplémentaires** : Toute modification majeure sera facturée séparément après accord.  
+
+---
+
+## 16. Applicabilité des Clauses  
+| Clause                        | Applicable (Oui/Non)  | Commentaire           |  
+|-------------------------------|-----------------------|-----------------------|  
+| Confidentialité               | Oui                   | Le prestataire doit garantir la non-divulgation. |  
+| Propriété Intellectuelle      | Oui                   | Droits cédés au commanditaire. |  
+| Non-concurrence               | Non                   | Non applicable à cette prestation. |  
+| Modifications post-livraison  | Oui                   | Modifications mineures incluses. |  
+
+---
+
+## 17. Contact  
+Pour toute question, contactez l'équipe Yutopia via Discord.

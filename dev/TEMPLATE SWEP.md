@@ -84,5 +84,63 @@
 ---
 
 
+## 3. Livrables attendus  
+Le prestataire devra livrer :  
+- **Le menu intégré au module existant** : Le code sera directement ajouté au projet source via l'accès fourni.  
+- **Respect des conventions** : Le code doit respecter la structure et les normes du projet pour faciliter la maintenance.  
 
 ---
+
+## 4. Délais de réalisation  
+**Date limite de livraison** : [À définir avec le prestataire]  
+
+---
+
+## 5. Budget et Conditions  
+**Modalités de paiement** : Paiement après validation finale par l'équipe technique de Yutopia.  
+
+---
+
+## 6. Critères de Validation  
+Le menu sera validé en fonction des critères suivants :  
+- Fonctionnalités entièrement opérationnelles (drag-and-drop, menu contextuel, boutons interactifs).  
+- Respect des normes d'intégration dans le projet.  
+- Effets visuels et animations conformes aux spécifications.  
+
+---
+
+## 7. Confidentialité  
+Le prestataire s'engage à respecter la confidentialité totale concernant le projet, incluant :  
+- Ne divulguer aucune information relative au projet.  
+- Ne pas utiliser les travaux réalisés dans son portfolio ou ailleurs sans autorisation écrite.  
+
+---
+
+## 8. Propriété Intellectuelle  
+Le prestataire cède tous les droits d'exploitation des créations réalisées au commanditaire. Ces droits incluent l'utilisation, la reproduction, la modification et la distribution des créations.  
+
+---
+
+## 9. Non-concurrence  
+Cette clause n'est pas applicable à cette prestation.  
+
+---
+
+## 1à. Modifications post-livraison  
+- **Incluses** : Une série de corrections mineures si nécessaire.  
+- **Supplémentaires** : Toute modification majeure sera facturée séparément après accord.  
+
+---
+
+## 11. Applicabilité des Clauses  
+| Clause                        | Applicable (Oui/Non)  | Commentaire           |  
+|-------------------------------|-----------------------|-----------------------|  
+| Confidentialité               | Oui                   | Le prestataire doit garantir la non-divulgation. |  
+| Propriété Intellectuelle      | Oui                   | Droits cédés au commanditaire. |  
+| Non-concurrence               | Non                   | Non applicable à cette prestation. |  
+| Modifications post-livraison  | Oui                   | Modifications mineures incluses. |  
+
+---
+
+## 12. Contact  
+Pour toute question, contactez l'équipe Yutopia via Discord.
